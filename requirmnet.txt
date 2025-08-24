@@ -1,0 +1,17 @@
+streamlit
+langchain
+openai
+chromadb
+python-dotenv
+google-api-python-client
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+#Just write this command.
+#pip install -r requirements.txt
+
+
+
+#or you should run and download all dependencies as 
+#pip install streamlit langchain openai chromadb python-dotenv google-api-python-client google-auth google-auth-oauthlib google-auth-httplib2
