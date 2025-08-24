@@ -13,9 +13,13 @@ A Streamlit-based app that helps you generate SEO articles, scripts, and social 
 ## Project Structure
 .
 ├── code_1.py # Main Streamlit app
+
 ├── content_sessions.json # Stores chat session history
+
 ├── content_vectors/ # Chroma vector database (auto-created)
+
 ├── requirements.txt # Dependencies
+
 └── README.md # Documentation
 
 
